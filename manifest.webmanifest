@@ -1,0 +1,10 @@
+{
+  "name":"Kashi & Kaveri Foods",
+  "short_name":"Kashi & Kaveri",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#061d15",
+  "theme_color":"#071f16",
+  "description":"Two Traditions. One Place. Pure Veg food in Greater Noida.",
+  "icons":[{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
